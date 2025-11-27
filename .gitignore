@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+
+# Database files
+*.db
+
+# Environment variables
+.env
