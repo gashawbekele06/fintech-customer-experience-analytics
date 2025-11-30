@@ -1,12 +1,3 @@
-"""
-Data Preprocessing Script
-Task 1: Data Preprocessing
-This script cleans and preprocesses the scraped reviews data.
-- Handles missing values
-- Normalizes dates
-- Cleans text data
-"""
-
 import sys
 import os
 
